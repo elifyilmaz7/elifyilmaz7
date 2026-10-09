@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi there, I’m Elif! 👋
+🎓 Computer Engineering Student at Gebze Technical University
 
-<!--
-**elifyilmaz7/elifyilmaz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a third-year Computer Engineering student interested in Software Engineering, Backend Development, and Data Science.
 
-Here are some ideas to get you started:
+I enjoy developing practical software solutions, exploring new technologies, and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Technologies & Tools
+
+Programming: C · C++ · Java · Python · SQL
+
+Backend: Spring Boot · REST APIs
+
+Data Science & NLP: Pandas · SQLite · Sentence Transformers
+
+Tools: Git · Linux · Swagger
+
+🚀 Projects
+
+Cargo Carrier Recommendation API
+
+* Java and Spring Boot REST API for shipping carrier recommendations
+* Factory and Strategy design patterns
+
+Return Reason Classification
+
+* Turkish NLP pipeline for classifying customer return comments
+* Text preprocessing and semantic similarity
+
+Student Information System
+
+* Modular student and course management system developed in C
+* CRUD operations and dynamic memory management
+
+📫 Contact
+
+📧 eyilmaz2023@gtu.edu.tr
 -->
